@@ -1,10 +1,3 @@
-<style>
-    body {
-        background-color: black;
-        color: white;
-    }
-</style>
-
 # Desafío Alurageek
 
 Este desafío es uno de los desafíos propuestos en la formación Front-end del programa Alura ONE (Oracle Next Education) y consiste en una página web (Alurageek) que muestra productos obtenidos de un servidor mediante fetch GET. También permite agregar un nuevo producto mediante fetch POST y eliminar productos de la lista con fetch DELETE.
@@ -50,5 +43,3 @@ Este desafío es uno de los desafíos propuestos en la formación Front-end del 
 <http://localhost:3001/productos>
 
 7. Si todo a ido bien deberías ver una página como esta con los productos ya mostrandose:
-
-![Página Alurageek](./alurageek.jpg)
